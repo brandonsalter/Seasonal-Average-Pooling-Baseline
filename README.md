@@ -6,6 +6,6 @@ I am grateful to my advisor, Dr. Bryan Bischof, who introduced this idea to me d
 
 The data was originally retrieved from ENTSO-E Transparency Platform, which provides access to electricity generation, transportation, and consumption data for the pan-European market.
 
-I'm using German consumption data ranging from Jan 2015 to Jan 2020. The German load data was initially obtained with 15-min resolution. It has been resampled it on an daily basis for this analysis. The data was collated by Francois Raucent and posted on his Kaggle page linked below. The initial data preparation also closely resembles the method used in his accompanying notebook.
+I'm using German consumption data ranging from Jan 2015 to Jan 2020. The German load data was initially obtained with 15-min resolution. It has been resampled to be on an daily basis for this analysis. The data was collated by Francois Raucent and posted on his Kaggle page linked below. The initial data preparation closely resembles the method used in his accompanying notebook.
 
 https://www.kaggle.com/datasets/francoisraucent/western-europe-power-consumption?select=de.csv
